@@ -22,6 +22,10 @@ overview of the notebooks:
   introduced in `01_Introduction.ipynb` can be used to create an improved
   butterfly plots.
 
+- `04_GPUProgramming.ipynb` shows how to run and benchmark code on GPUs using
+  `CUDA.jl`.  Uses the functions developed in earlier notebooks.  No kernel
+  programming necessary!
+
 - More notebooks coming soon!
 
 ## Setup
