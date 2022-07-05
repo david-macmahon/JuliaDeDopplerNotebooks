@@ -1,0 +1,11 @@
+name = "JuliaDeDopplerNotebooks"
+uuid = "c9db5833-096e-40df-88c4-0b148a5880b7"
+authors = ["David MacMahon <davidm@astro.berkeley.edu>"]
+version = "0.0.1"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
